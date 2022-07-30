@@ -1,2 +1,2 @@
-# typescript
+# typescrip - estudos 
 hello world
